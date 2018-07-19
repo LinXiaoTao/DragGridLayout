@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleGridLayout">
+        <attr name="sgl_columnCount" format="integer" />
+        <attr name="sgl_vgap" format="dimension" />
+        <attr name="sgl_hgap" format="dimension" />
+        <attr name="sgl_sameSize" format="boolean" />
+    </declare-styleable>
+</resources>
